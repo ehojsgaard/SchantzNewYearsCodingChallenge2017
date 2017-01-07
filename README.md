@@ -1,5 +1,5 @@
 # Schantz' New Year's Coding Challenge 2017
-This repo contains code related to Schantz' New Year's Coding Challenge 2017 on LinkedIn. Link to the challenge and more details to follow.
+This repo contains code related to [Schantz' New Year's Coding Challenge 2017](https://www.linkedin.com/pulse/schantz-new-years-coding-challenge-2017-espen-højsgaard) on LinkedIn.
 
 
 ## Evaluation of solutions
