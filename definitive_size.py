@@ -1,5 +1,7 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
+
 import sys
+
 filename = sys.argv[1]
 text = open(filename, errors='surrogateescape').read()
 text2 = text \
