@@ -22,6 +22,16 @@ Below are listed the author, character count, and language of the top 3 solution
 3. Jakob Gøttrup Nielsen: 53 characters in Pyth
 
 
+# Prize ceremony
+Friday 10 February we had a little prize ceremony at Schantz, where the winner of both categories, Christian Iversen, visited Schantz to receive his prizes.
+
+Christian gave an entertaining presentation of how he had tackled the challenge and arrived at his solutions. Very interesting and fun - thanks Christian!
+
+![Christian Iversen explaining a step towards the winning solution in Category 1](/Prize ceremony/DSC_1235-1.JPG)
+![Christian Iversen showing his key insight](/Prize ceremony/DSC_1264-1.JPG)
+![Christian Iversen with his prizes in front of the Schantz VW](/Prize ceremony/DSC_1346-1.JPG)
+
+
 # Credits
 A big thanks to all the participants for taking up the challenge and submitting fun and interesting solutions!
 
